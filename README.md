@@ -2,7 +2,7 @@ Step 1: Download the code "Sanika_IITB Assignment_Data Analytics.ipynb" file and
 
 Step 2: Then upload code to Google Colab or Jupyter Notebook or open it in VS Code.
 
-Step 3: Copy of the path of the csv files (right click on file -> copy as path) and paste it in code. I have mentioned in the code where to paste which file. I am also giving the sequence download below
+Step 3: Copy of the path of the csv files (right click on file -> copy as path) and paste it in code. I have mentioned in the code where to paste which file. I am also giving the sequence down below
 
    A) For pie chart "College Students 2.csv"
    
